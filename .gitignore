@@ -1,0 +1,5 @@
+__pycache__
+multimedia/
+pruebas/
+*.pt
+app.py
